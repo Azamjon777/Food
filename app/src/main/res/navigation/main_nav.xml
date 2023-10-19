@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav"
+    app:startDestination="@id/difficultyFragment">
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="epicu.uriev.food.presentation.fragments.GameFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_game" />
+    <fragment
+        android:id="@+id/difficultyFragment"
+        android:name="epicu.uriev.food.presentation.fragments.DifficultyFragment"
+        android:label="fragment_difficulty"
+        tools:layout="@layout/fragment_difficulty">
+        <action
+            android:id="@+id/action_difficultyFragment_to_mainFragment"
+            app:destination="@id/mainFragment"
+            app:popUpTo="@id/difficultyFragment" />
+        <action
+            android:id="@+id/action_difficultyFragment_to_settingsFragment"
+            app:destination="@id/settingsFragment"
+            app:popUpTo="@id/difficultyFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="epicu.uriev.food.presentation.fragments.MySettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

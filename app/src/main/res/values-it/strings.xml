@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cibo</string>
+    <string name="select_difficulty_level">Seleziona il livello di difficoltà</string>
+    <string name="select_difficulty">Seleziona Difficoltà</string>
+    <string name="level_1">Livello 1</string>
+    <string name="level_2">Livello 2</string>
+    <string name="level_3">Livello 3</string>
+    <string name="settings">Impostazioni</string>
+    <string name="brightness">Luminosità</string>
+    <string name="sound_volume">Volume del suono</string>
+    <string name="title">Titolo</string>
+    <string name="message">Messaggio</string>
+    <string name="restart">Ricomincia</string>
+    <string name="score_0">Punteggio: 0</string>
+    <string name="game_over">Game Over</string>
+    <string name="your_score">\"Il tuo punteggio: \"</string>
+    <string name="best_score">\"Miglior punteggio: \"</string>
+    <string name="score">\"Punto: \"</string>
+    <string name="collect_as_many">Raccogli quanti più prodotti possibile, avrai 10 secondi per farlo</string>
+    <string name="skip">Salta</string>
+    <string name="start">Inizia</string>
+    <string name="the_best_score">Il miglior punteggio è salvato per ogni livello</string>
+    <string name="shop_by_game">Acquista in base al livello di difficoltà del gioco. Hai 10 secondi per fare acquisti</string>
+</resources>

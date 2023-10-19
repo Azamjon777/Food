@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Yiyecek</string>
+    <string name="select_difficulty_level">Zorluk seviyesini seçin</string>
+    <string name="select_difficulty">Zorluk Seç</string>
+    <string name="level_1">Seviye 1</string>
+    <string name="level_2">Seviye 2</string>
+    <string name="level_3">3. seviye</string>
+    <string name="settings">Ayarlar</string>
+    <string name="brightness">Parlaklık</string>
+    <string name="sound_volume">Ses seviyesi</string>
+    <string name="title">Başlık</string>
+    <string name="message">İleti</string>
+    <string name="restart">Tekrar başlat</string>
+    <string name="score_0">Puan: 0</string>
+    <string name="game_over">Oyun bitti</string>
+    <string name="your_score">\"Puanın: \"</string>
+    <string name="best_score">\"En iyi puan: \"</string>
+    <string name="score">\"Gol: \"</string>
+    <string name="collect_as_many">Mümkün olduğu kadar çok ürün toplayın, bunu yapmak için 10 saniyeniz olacak</string>
+    <string name="skip">Atla</string>
+    <string name="start">Başlat</string>
+    <string name="the_best_score">En iyi skor her seviye için kaydedilir</string>
+    <string name="shop_by_game">Oyundaki zorluk seviyesine göre alışveriş yapın. Size 10 saniye verilir.</string>
+</resources>

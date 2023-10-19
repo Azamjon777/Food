@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Comida</string>
+    <string name="select_difficulty_level">Selecione o nível de dificuldade</string>
+    <string name="select_difficulty">Selecione a dificuldade</string>
+    <string name="level_1">Nível 1</string>
+    <string name="level_2">Nível 2</string>
+    <string name="level_3">Nível 3</string>
+    <string name="settings">Configurações</string>
+    <string name="brightness">Brilho</string>
+    <string name="sound_volume">Volume do som</string>
+    <string name="title">Título</string>
+    <string name="message">Mensagem</string>
+    <string name="restart">Reiniciar</string>
+    <string name="score_0">Pontuação: 0</string>
+    <string name="game_over">Game Over</string>
+    <string name="your_score">\"Sua pontuação: \"</string>
+    <string name="best_score">\"Melhor pontuação: \"</string>
+    <string name="score">\"Pontuação: \"</string>
+    <string name="collect_as_many">Colete o máximo de produtos possível, você terá 10 segundos para fazer isso</string>
+    <string name="skip">Pular</string>
+    <string name="start">Iniciar</string>
+    <string name="the_best_score">A melhor pontuação é salva para cada nível</string>
+    <string name="shop_by_game">Compre de acordo com o nível de dificuldade do jogo. Você tem 10 segundos para comprar</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Еда</string>
+    <string name="select_difficulty_level">Выберите уровень сложности</string>
+    <string name="select_difficulty">Выберите сложность</string>
+    <string name="level_1">1-й уровень</string>
+    <string name="level_2">Уровень 2</string>
+    <string name="level_3">Уровень 3</string>
+    <string name="settings">Настройки</string>
+    <string name="brightness">Яркость</string>
+    <string name="sound_volume">Громкость</string>
+    <string name="title">Заголовок</string>
+    <string name="message">Сообщение</string>
+    <string name="restart">Перезапуск</string>
+    <string name="score_0">Оценка: 0</string>
+    <string name="game_over">Игра закончена</string>
+    <string name="your_score">\"Твой счет: \"</string>
+    <string name="best_score">\"Лучший результат: \"</string>
+    <string name="score">\"Счет: \"</string>
+    <string name="collect_as_many">Соберите как можно больше продуктов, на это у вас будет 10 секунд.</string>
+    <string name="skip">Пропустить</string>
+    <string name="start">Начать</string>
+    <string name="the_best_score">Лучший результат сохраняется для каждого уровня</string>
+    <string name="shop_by_game">Покупайте в зависимости от уровня сложности игры. Вам дается 10 секунд на покупку</string>
+</resources>

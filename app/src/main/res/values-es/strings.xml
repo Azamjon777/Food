@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Alimento</string>
+    <string name="select_difficulty_level">Selecciona el nivel de dificultad</string>
+    <string name="select_difficulty">Seleccione dificultad</string>
+    <string name="level_1">Nivel 1</string>
+    <string name="level_2">Nivel 2</string>
+    <string name="level_3">Nivel 3</string>
+    <string name="settings">Ajustes</string>
+    <string name="brightness">Brillo</string>
+    <string name="sound_volume">Volumen de sonido</string>
+    <string name="title">Título</string>
+    <string name="message">Mensaje</string>
+    <string name="restart">Reanudar</string>
+    <string name="score_0">Puntuación: 0</string>
+    <string name="game_over">Juego terminado</string>
+    <string name="your_score">\"Tu puntuación: \"</string>
+    <string name="best_score">\"Mejor puntuación: \"</string>
+    <string name="score">\"Puntaje: \"</string>
+    <string name="collect_as_many">Recoge tantos productos como puedas, tendrás 10 segundos para hacerlo</string>
+    <string name="skip">Saltar</string>
+    <string name="start">Comenzar</string>
+    <string name="the_best_score">La mejor puntuación se guarda para cada nivel</string>
+    <string name="shop_by_game">Compra por nivel de dificultad del juego. Tienes 10 segundos para comprar</string>
+</resources>

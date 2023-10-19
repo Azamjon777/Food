@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Food</string>
+    <string name="select_difficulty_level">Select difficulty level</string>
+    <string name="select_difficulty">Select Difficulty</string>
+    <string name="level_1">Level 1</string>
+    <string name="level_2">Level 2</string>
+    <string name="level_3">Level 3</string>
+    <string name="settings">Settings</string>
+    <string name="brightness">Brightness</string>
+    <string name="sound_volume">Sound volume</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="restart">Restart</string>
+    <string name="score_0">Score: 0</string>
+    <string name="game_over">Game Over</string>
+    <string name="your_score">"Your Score: "</string>
+    <string name="best_score">"Best Score: "</string>
+    <string name="score">"Score: "</string>
+    <string name="collect_as_many">Collect as many products as possible, you will have 10 seconds to do this</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="the_best_score">The best score is saved for each level</string>
+    <string name="shop_by_game">Shop by game difficulty level. You are given 10 seconds to shop</string>
+</resources>
